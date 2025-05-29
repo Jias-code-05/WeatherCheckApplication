@@ -5,12 +5,6 @@
 
 A Python-based weather forecasting application that uses linear regression to predict temperature, rainfall, humidity, wind speed, and atmospheric pressure trends.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Format](#data-format)
-
 ## Features ✨
 - **7-Day Weather Forecast** for:
   - Temperature (°C)
@@ -22,24 +16,6 @@ A Python-based weather forecasting application that uses linear regression to pr
 - **Data Visualization** (14-day historical trends)
 - **Statistical Analysis** (mean, min, max, std. deviation)
 - **CSV Data Support**
-
-## Installation 💻
-
-1. Clone the repository:
-bash
-git clone https://github.com/yourusername/WeatherPredictionApp.git
-cd WeatherPredictionApp
-2. Install dependencies:
-bash
-pip install -r requirements.txt
-
-
-## Usage 🚀
-
-Run the application:
-bash
-python weather_app.py
-
 
 **Menu Options**:
 1. Next Week's Weather Forecast
